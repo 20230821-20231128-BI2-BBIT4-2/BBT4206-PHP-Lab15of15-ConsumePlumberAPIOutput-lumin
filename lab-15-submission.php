@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
-    <form method="post" action="diabetes.php">
+    <form method="post" action="lab-15-submission.php">
         <h2>Diabetes Prediction Form</h2>
         <label for="pregnant">Pregnant:</label>
         <input type="text" name="arg_pregnant" required>
