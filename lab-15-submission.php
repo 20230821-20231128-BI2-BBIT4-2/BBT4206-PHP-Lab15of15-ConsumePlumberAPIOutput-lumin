@@ -83,7 +83,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "API Error: " . $data['message'];
     }
 
-    // REQUIRED LAB WORK SUBMISSION:
+// REQUIRED LAB WORK SUBMISSION:
     /*
     Create a form in the web user interface to post the parameter values
     (e.g., $arg_pregnant, $arg_glucose, etc.) instead of setting them manually
@@ -180,3 +180,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </form>
 </body>
 </html>
+
